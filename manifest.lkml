@@ -8,5 +8,5 @@ project_name: "emma-import_me_im_public"
 # }
 constant: connection {
   value: "thelook"
-  export: override_required
+   export: override_required
 }
